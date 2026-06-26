@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://departments.nitj.ac.in/dept/it/Faculty/65604b9dd02be846b661185e"><b>Simranjit Singh</b></a> &nbsp;&middot;&nbsp;
-  <b>Kumar Prateek</b> &nbsp;&middot;&nbsp;
-  <b>Mohit Sajwan</b>
+  <a href="https://scholar.google.com/citations?user=uVD29RwAAAAJ&hl=en"><b>Simranjit Singh</b></a> &nbsp;&middot;&nbsp;
+  <a href="https://sites.google.com/view/kumarprateek/"><b>Kumar Prateek</b> &nbsp;&middot;&nbsp;
+   <a href="https://scholar.google.com/citations?user=F9odXWIAAAAJ&hl=en"><b>Mohit Sajwan</b>
 </p>
 
 <p align="center">
