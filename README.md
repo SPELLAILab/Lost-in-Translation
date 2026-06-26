@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://openreview.net/forum?id=uKhrfSTis2"><b>Simranjit Singh</b></a> &nbsp;&middot;&nbsp;
+  <a href="https://departments.nitj.ac.in/dept/it/Faculty/65604b9dd02be846b661185e"><b>Simranjit Singh</b></a> &nbsp;&middot;&nbsp;
   <b>Kumar Prateek</b> &nbsp;&middot;&nbsp;
   <b>Mohit Sajwan</b>
 </p>
