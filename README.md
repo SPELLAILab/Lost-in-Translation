@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=uVD29RwAAAAJ&hl=en"><b>Simranjit Singh</b></a> &nbsp;&middot;&nbsp;
-  <a href="https://sites.google.com/view/kumarprateek/"><b>Kumar Prateek</b> &nbsp;&middot;&nbsp;
-   <a href="https://scholar.google.com/citations?user=F9odXWIAAAAJ&hl=en"><b>Mohit Sajwan</b>
+  <a href="https://sites.google.com/view/kumarprateek/"><b>Kumar Prateek</b></a> &nbsp;&middot;&nbsp;
+   <a href="https://scholar.google.com/citations?user=F9odXWIAAAAJ&hl=en"><b>Mohit Sajwan</b></a>
 </p>
 
 <p align="center">
