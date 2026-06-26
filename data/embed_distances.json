@@ -1,0 +1,3485 @@
+[
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "C1",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7704,
+    "drift": 0.2296
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "C1",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6597,
+    "drift": 0.3403
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "C1",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.77,
+    "drift": 0.23
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "C2",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7121,
+    "drift": 0.2879
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "C2",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7582,
+    "drift": 0.2418
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "C2",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7783,
+    "drift": 0.2217
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "C3",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7866,
+    "drift": 0.2134
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "C3",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6953,
+    "drift": 0.3047
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "C3",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8029,
+    "drift": 0.1971
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "C3",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7389,
+    "drift": 0.2611
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "C4",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7945,
+    "drift": 0.2055
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "C4",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7136,
+    "drift": 0.2864
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "C4",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7267,
+    "drift": 0.2733
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "C4",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.648,
+    "drift": 0.352
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "C5",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7582,
+    "drift": 0.2418
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "C5",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7023,
+    "drift": 0.2977
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "C5",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8189,
+    "drift": 0.1811
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "C5",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6968,
+    "drift": 0.3032
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "I1",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7599,
+    "drift": 0.2401
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "I1",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.709,
+    "drift": 0.291
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "I1",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7768,
+    "drift": 0.2232
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "I1",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7146,
+    "drift": 0.2854
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "I2",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6997,
+    "drift": 0.3003
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "I2",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7226,
+    "drift": 0.2774
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "I2",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7633,
+    "drift": 0.2367
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "I2",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7283,
+    "drift": 0.2717
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "I3",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7156,
+    "drift": 0.2844
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "I3",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7377,
+    "drift": 0.2623
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "I3",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6499,
+    "drift": 0.3501
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "I4",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7955,
+    "drift": 0.2045
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "I4",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7505,
+    "drift": 0.2495
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "I5",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7895,
+    "drift": 0.2105
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "I5",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6687,
+    "drift": 0.3313
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "I5",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7429,
+    "drift": 0.2571
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "I5",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6766,
+    "drift": 0.3234
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "L1",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8028,
+    "drift": 0.1972
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "L1",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7848,
+    "drift": 0.2152
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "L2",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7323,
+    "drift": 0.2677
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "L2",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7051,
+    "drift": 0.2949
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "L2",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6563,
+    "drift": 0.3437
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "L2",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6194,
+    "drift": 0.3806
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "L3",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7718,
+    "drift": 0.2282
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "L3",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8051,
+    "drift": 0.1949
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "L4",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7286,
+    "drift": 0.2714
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "L4",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.675,
+    "drift": 0.325
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "L4",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7149,
+    "drift": 0.2851
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "L4",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6026,
+    "drift": 0.3974
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "L5",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7954,
+    "drift": 0.2046
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "L5",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7255,
+    "drift": 0.2745
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "L5",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8358,
+    "drift": 0.1642
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "P1",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.717,
+    "drift": 0.283
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "P1",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6641,
+    "drift": 0.3359
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "P1",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.776,
+    "drift": 0.224
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "P2",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8047,
+    "drift": 0.1953
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "P2",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7108,
+    "drift": 0.2892
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "P2",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.784,
+    "drift": 0.216
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "P2",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7047,
+    "drift": 0.2953
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "P3",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8084,
+    "drift": 0.1916
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "P3",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7378,
+    "drift": 0.2622
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "P3",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7855,
+    "drift": 0.2145
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "P3",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7163,
+    "drift": 0.2837
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "P4",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7853,
+    "drift": 0.2147
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "P4",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.5893,
+    "drift": 0.4107
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "P4",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7515,
+    "drift": 0.2485
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "P4",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6732,
+    "drift": 0.3268
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "P5",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8039,
+    "drift": 0.1961
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "P5",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7194,
+    "drift": 0.2806
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "P5",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8252,
+    "drift": 0.1748
+  },
+  {
+    "model": "aya_expanse_8b",
+    "scenario_id": "P5",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7824,
+    "drift": 0.2176
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "C1",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7781,
+    "drift": 0.2219
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "C1",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.8048,
+    "drift": 0.1952
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "C1",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7914,
+    "drift": 0.2086
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "C1",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7459,
+    "drift": 0.2541
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "C2",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7988,
+    "drift": 0.2012
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "C2",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7953,
+    "drift": 0.2047
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "C2",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.8481,
+    "drift": 0.1519
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "C3",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7879,
+    "drift": 0.2121
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "C3",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8117,
+    "drift": 0.1883
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "C3",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7586,
+    "drift": 0.2414
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "C4",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7771,
+    "drift": 0.2229
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "C4",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7076,
+    "drift": 0.2924
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "C4",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8459,
+    "drift": 0.1541
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "C5",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7823,
+    "drift": 0.2177
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "C5",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.709,
+    "drift": 0.291
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "C5",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.8164,
+    "drift": 0.1836
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "I1",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6884,
+    "drift": 0.3116
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "I1",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.8908,
+    "drift": 0.1092
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "I1",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7887,
+    "drift": 0.2113
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "I1",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7252,
+    "drift": 0.2748
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "I2",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7682,
+    "drift": 0.2318
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "I2",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7023,
+    "drift": 0.2977
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "I2",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7684,
+    "drift": 0.2316
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "I2",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.5721,
+    "drift": 0.4279
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "I3",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.787,
+    "drift": 0.213
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "I3",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8044,
+    "drift": 0.1956
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "I3",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6867,
+    "drift": 0.3133
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "I4",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7184,
+    "drift": 0.2816
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "I4",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6875,
+    "drift": 0.3125
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "I4",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7533,
+    "drift": 0.2467
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "I4",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6531,
+    "drift": 0.3469
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "I5",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7611,
+    "drift": 0.2389
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "I5",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7175,
+    "drift": 0.2825
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "I5",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7451,
+    "drift": 0.2549
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "I5",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7305,
+    "drift": 0.2695
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "L1",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8166,
+    "drift": 0.1834
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "L1",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7931,
+    "drift": 0.2069
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "L1",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8235,
+    "drift": 0.1765
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "L1",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7589,
+    "drift": 0.2411
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "L2",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8008,
+    "drift": 0.1992
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "L2",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7899,
+    "drift": 0.2101
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "L3",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7601,
+    "drift": 0.2399
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "L3",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6959,
+    "drift": 0.3041
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "L3",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7598,
+    "drift": 0.2402
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "L3",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.615,
+    "drift": 0.385
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "L4",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6657,
+    "drift": 0.3343
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "L4",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6683,
+    "drift": 0.3317
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "L4",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6456,
+    "drift": 0.3544
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "L5",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7363,
+    "drift": 0.2637
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "L5",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6167,
+    "drift": 0.3833
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "L5",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8137,
+    "drift": 0.1863
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "L5",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.9046,
+    "drift": 0.0954
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "P1",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7767,
+    "drift": 0.2233
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "P1",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7222,
+    "drift": 0.2778
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "P1",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8301,
+    "drift": 0.1699
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "P1",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7357,
+    "drift": 0.2643
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "P2",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8024,
+    "drift": 0.1976
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "P2",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7553,
+    "drift": 0.2447
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "P2",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8152,
+    "drift": 0.1848
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "P2",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7512,
+    "drift": 0.2488
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "P3",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8311,
+    "drift": 0.1689
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "P3",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8033,
+    "drift": 0.1967
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "P3",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7305,
+    "drift": 0.2695
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "P4",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7835,
+    "drift": 0.2165
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "P4",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7708,
+    "drift": 0.2292
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "P4",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6633,
+    "drift": 0.3367
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "P5",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8141,
+    "drift": 0.1859
+  },
+  {
+    "model": "gemma2_9b",
+    "scenario_id": "P5",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7976,
+    "drift": 0.2024
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "C1",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7199,
+    "drift": 0.2801
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "C1",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7337,
+    "drift": 0.2663
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "C1",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7471,
+    "drift": 0.2529
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "C2",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7096,
+    "drift": 0.2904
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "C2",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7841,
+    "drift": 0.2159
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "C3",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7327,
+    "drift": 0.2673
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "C3",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7379,
+    "drift": 0.2621
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "C3",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7961,
+    "drift": 0.2039
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "C3",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7226,
+    "drift": 0.2774
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "C4",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6687,
+    "drift": 0.3313
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "C4",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.5645,
+    "drift": 0.4355
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "C4",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6748,
+    "drift": 0.3252
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "C4",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.5614,
+    "drift": 0.4386
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "C5",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6722,
+    "drift": 0.3278
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "C5",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.749,
+    "drift": 0.251
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "C5",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7177,
+    "drift": 0.2823
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "I1",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6133,
+    "drift": 0.3867
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "I1",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.5082,
+    "drift": 0.4918
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "I1",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6976,
+    "drift": 0.3024
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "I1",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.437,
+    "drift": 0.563
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "I2",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7048,
+    "drift": 0.2952
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "I2",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.5898,
+    "drift": 0.4102
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "I2",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.733,
+    "drift": 0.267
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "I2",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.5994,
+    "drift": 0.4006
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "I3",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.773,
+    "drift": 0.227
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "I3",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7155,
+    "drift": 0.2845
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "I3",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7356,
+    "drift": 0.2644
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "I3",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7,
+    "drift": 0.3
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "I4",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7185,
+    "drift": 0.2815
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "I4",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6894,
+    "drift": 0.3106
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "I4",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7846,
+    "drift": 0.2154
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "I4",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7001,
+    "drift": 0.2999
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "I5",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.779,
+    "drift": 0.221
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "I5",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7683,
+    "drift": 0.2317
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "I5",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7803,
+    "drift": 0.2197
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "I5",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7048,
+    "drift": 0.2952
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "L1",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7694,
+    "drift": 0.2306
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "L1",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6591,
+    "drift": 0.3409
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "L2",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7465,
+    "drift": 0.2535
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "L2",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7248,
+    "drift": 0.2752
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "L2",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6218,
+    "drift": 0.3782
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "L3",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7613,
+    "drift": 0.2387
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "L3",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.737,
+    "drift": 0.263
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "L4",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6572,
+    "drift": 0.3428
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "L4",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6927,
+    "drift": 0.3073
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "L4",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6614,
+    "drift": 0.3386
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "L5",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7528,
+    "drift": 0.2472
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "L5",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7123,
+    "drift": 0.2877
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "L5",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7911,
+    "drift": 0.2089
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "L5",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7115,
+    "drift": 0.2885
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "P1",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6788,
+    "drift": 0.3212
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "P1",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6196,
+    "drift": 0.3804
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "P1",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7084,
+    "drift": 0.2916
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "P2",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7862,
+    "drift": 0.2138
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "P2",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.5884,
+    "drift": 0.4116
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "P2",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6614,
+    "drift": 0.3386
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "P3",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7529,
+    "drift": 0.2471
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "P3",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6656,
+    "drift": 0.3344
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "P3",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7907,
+    "drift": 0.2093
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "P3",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7639,
+    "drift": 0.2361
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "P4",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7314,
+    "drift": 0.2686
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "P4",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6697,
+    "drift": 0.3303
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "P4",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7412,
+    "drift": 0.2588
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "P4",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6935,
+    "drift": 0.3065
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "P5",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7578,
+    "drift": 0.2422
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "P5",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7141,
+    "drift": 0.2859
+  },
+  {
+    "model": "llama31_8b",
+    "scenario_id": "P5",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7014,
+    "drift": 0.2986
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "C1",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7153,
+    "drift": 0.2847
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "C1",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6671,
+    "drift": 0.3329
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "C1",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6741,
+    "drift": 0.3259
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "C1",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6975,
+    "drift": 0.3025
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "C2",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7727,
+    "drift": 0.2273
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "C2",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.8189,
+    "drift": 0.1811
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "C2",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7367,
+    "drift": 0.2633
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "C2",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7849,
+    "drift": 0.2151
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "C3",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7408,
+    "drift": 0.2592
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "C3",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.8055,
+    "drift": 0.1945
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "C3",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.738,
+    "drift": 0.262
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "C3",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7792,
+    "drift": 0.2208
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "C4",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.771,
+    "drift": 0.229
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "C4",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7659,
+    "drift": 0.2341
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "C4",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7083,
+    "drift": 0.2917
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "C4",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.8205,
+    "drift": 0.1795
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "C5",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.69,
+    "drift": 0.31
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "C5",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6769,
+    "drift": 0.3231
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "C5",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6893,
+    "drift": 0.3107
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "C5",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7504,
+    "drift": 0.2496
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "I1",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6583,
+    "drift": 0.3417
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "I1",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7057,
+    "drift": 0.2943
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "I1",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6709,
+    "drift": 0.3291
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "I1",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7226,
+    "drift": 0.2774
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "I2",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.712,
+    "drift": 0.288
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "I2",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.808,
+    "drift": 0.192
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "I2",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.745,
+    "drift": 0.255
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "I2",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7337,
+    "drift": 0.2663
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "I3",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7397,
+    "drift": 0.2603
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "I3",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6167,
+    "drift": 0.3833
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "I3",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8062,
+    "drift": 0.1938
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "I3",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7432,
+    "drift": 0.2568
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "I4",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8754,
+    "drift": 0.1246
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "I4",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6706,
+    "drift": 0.3294
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "I4",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7062,
+    "drift": 0.2938
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "I4",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.5841,
+    "drift": 0.4159
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "I5",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7942,
+    "drift": 0.2058
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "I5",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7347,
+    "drift": 0.2653
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "I5",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.839,
+    "drift": 0.161
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "I5",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.8369,
+    "drift": 0.1631
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "L1",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8466,
+    "drift": 0.1534
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "L1",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.8302,
+    "drift": 0.1698
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "L1",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8405,
+    "drift": 0.1595
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "L1",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.8517,
+    "drift": 0.1483
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "L2",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7191,
+    "drift": 0.2809
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "L2",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6797,
+    "drift": 0.3203
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "L2",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7863,
+    "drift": 0.2137
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "L2",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7829,
+    "drift": 0.2171
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "L3",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7672,
+    "drift": 0.2328
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "L3",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.8262,
+    "drift": 0.1738
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "L3",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7798,
+    "drift": 0.2202
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "L3",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7384,
+    "drift": 0.2616
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "L4",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7823,
+    "drift": 0.2177
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "L4",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.713,
+    "drift": 0.287
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "L4",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7621,
+    "drift": 0.2379
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "L4",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6626,
+    "drift": 0.3374
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "L5",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7813,
+    "drift": 0.2187
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "L5",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7432,
+    "drift": 0.2568
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "L5",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7813,
+    "drift": 0.2187
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "L5",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7851,
+    "drift": 0.2149
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "P1",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8377,
+    "drift": 0.1623
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "P1",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7698,
+    "drift": 0.2302
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "P1",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6474,
+    "drift": 0.3526
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "P1",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7644,
+    "drift": 0.2356
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "P2",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7734,
+    "drift": 0.2266
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "P2",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7499,
+    "drift": 0.2501
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "P2",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7992,
+    "drift": 0.2008
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "P2",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7623,
+    "drift": 0.2377
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "P3",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7814,
+    "drift": 0.2186
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "P3",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7929,
+    "drift": 0.2071
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "P3",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8518,
+    "drift": 0.1482
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "P3",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.8401,
+    "drift": 0.1599
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "P4",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7306,
+    "drift": 0.2694
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "P4",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7661,
+    "drift": 0.2339
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "P4",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7718,
+    "drift": 0.2282
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "P4",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7924,
+    "drift": 0.2076
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "P5",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7294,
+    "drift": 0.2706
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "P5",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.762,
+    "drift": 0.238
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "P5",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8122,
+    "drift": 0.1878
+  },
+  {
+    "model": "llama70b_groq",
+    "scenario_id": "P5",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7083,
+    "drift": 0.2917
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "C1",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.3605,
+    "drift": 0.6395
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "C1",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.377,
+    "drift": 0.623
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "C2",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8119,
+    "drift": 0.1881
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "C2",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6519,
+    "drift": 0.3481
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "C3",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.641,
+    "drift": 0.359
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "C3",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.4271,
+    "drift": 0.5729
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "C3",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6029,
+    "drift": 0.3971
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "C4",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7187,
+    "drift": 0.2813
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "C4",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6421,
+    "drift": 0.3579
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "C5",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.703,
+    "drift": 0.297
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "I1",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6208,
+    "drift": 0.3792
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "I1",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.5766,
+    "drift": 0.4234
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "I2",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6723,
+    "drift": 0.3277
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "I4",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6829,
+    "drift": 0.3171
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "I4",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.4336,
+    "drift": 0.5664
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "I4",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6076,
+    "drift": 0.3924
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "I5",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6835,
+    "drift": 0.3165
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "L1",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.637,
+    "drift": 0.363
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "L1",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7039,
+    "drift": 0.2961
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "L3",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7202,
+    "drift": 0.2798
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "L4",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.582,
+    "drift": 0.418
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "L5",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7194,
+    "drift": 0.2806
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "L5",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6404,
+    "drift": 0.3596
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "P1",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6848,
+    "drift": 0.3152
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "P2",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.627,
+    "drift": 0.373
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "P3",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6732,
+    "drift": 0.3268
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "P3",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.5906,
+    "drift": 0.4094
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "P4",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6616,
+    "drift": 0.3384
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "P4",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.554,
+    "drift": 0.446
+  },
+  {
+    "model": "mistral_7b",
+    "scenario_id": "P5",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6099,
+    "drift": 0.3901
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "C1",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7316,
+    "drift": 0.2684
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "C1",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6044,
+    "drift": 0.3956
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "C1",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7312,
+    "drift": 0.2688
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "C1",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.4964,
+    "drift": 0.5036
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "C2",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7062,
+    "drift": 0.2938
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "C2",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.608,
+    "drift": 0.392
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "C2",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7421,
+    "drift": 0.2579
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "C2",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6846,
+    "drift": 0.3154
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "C3",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7503,
+    "drift": 0.2497
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "C3",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7617,
+    "drift": 0.2383
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "C3",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.605,
+    "drift": 0.395
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "C4",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8014,
+    "drift": 0.1986
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "C4",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.5901,
+    "drift": 0.4099
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "C4",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.696,
+    "drift": 0.304
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "C4",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.5488,
+    "drift": 0.4512
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "C5",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7514,
+    "drift": 0.2486
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "C5",
+    "dimension": "Collectivism",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.5206,
+    "drift": 0.4794
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "C5",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7496,
+    "drift": 0.2504
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "C5",
+    "dimension": "Collectivism",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.5862,
+    "drift": 0.4138
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "I1",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7044,
+    "drift": 0.2956
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "I1",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.5746,
+    "drift": 0.4254
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "I1",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7326,
+    "drift": 0.2674
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "I1",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.5951,
+    "drift": 0.4049
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "I2",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7488,
+    "drift": 0.2512
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "I2",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6983,
+    "drift": 0.3017
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "I2",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7141,
+    "drift": 0.2859
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "I2",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6654,
+    "drift": 0.3346
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "I3",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6951,
+    "drift": 0.3049
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "I3",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6582,
+    "drift": 0.3418
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "I3",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7202,
+    "drift": 0.2798
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "I4",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7684,
+    "drift": 0.2316
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "I4",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7089,
+    "drift": 0.2911
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "I4",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7307,
+    "drift": 0.2693
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "I4",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.5586,
+    "drift": 0.4414
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "I5",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6219,
+    "drift": 0.3781
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "I5",
+    "dimension": "Indulgence",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6208,
+    "drift": 0.3792
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "I5",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7855,
+    "drift": 0.2145
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "I5",
+    "dimension": "Indulgence",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6959,
+    "drift": 0.3041
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "L1",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7955,
+    "drift": 0.2045
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "L1",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7049,
+    "drift": 0.2951
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "L1",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6544,
+    "drift": 0.3456
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "L1",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6843,
+    "drift": 0.3157
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "L2",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6757,
+    "drift": 0.3243
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "L2",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6649,
+    "drift": 0.3351
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "L2",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7017,
+    "drift": 0.2983
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "L2",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.5132,
+    "drift": 0.4868
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "L3",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7129,
+    "drift": 0.2871
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "L3",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6892,
+    "drift": 0.3108
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "L3",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7301,
+    "drift": 0.2699
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "L4",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7277,
+    "drift": 0.2723
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "L4",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7174,
+    "drift": 0.2826
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "L4",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7296,
+    "drift": 0.2704
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "L4",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7032,
+    "drift": 0.2968
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "L5",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6851,
+    "drift": 0.3149
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "L5",
+    "dimension": "Long-term Orientation",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6424,
+    "drift": 0.3576
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "L5",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7511,
+    "drift": 0.2489
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "L5",
+    "dimension": "Long-term Orientation",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6392,
+    "drift": 0.3608
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "P1",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7587,
+    "drift": 0.2413
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "P1",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6799,
+    "drift": 0.3201
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "P1",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7368,
+    "drift": 0.2632
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "P2",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6907,
+    "drift": 0.3093
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "P2",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6081,
+    "drift": 0.3919
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "P2",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7653,
+    "drift": 0.2347
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "P2",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.6654,
+    "drift": 0.3346
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "P3",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7758,
+    "drift": 0.2242
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "P3",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.8268,
+    "drift": 0.1732
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "P3",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.6631,
+    "drift": 0.3369
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "P4",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.8243,
+    "drift": 0.1757
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "P4",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7171,
+    "drift": 0.2829
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "P4",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7053,
+    "drift": 0.2947
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "P5",
+    "dimension": "Power Distance",
+    "religion": "sikh",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7492,
+    "drift": 0.2508
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "P5",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→hi",
+    "cosine_sim": 0.7472,
+    "drift": 0.2528
+  },
+  {
+    "model": "qwen25_7b",
+    "scenario_id": "P5",
+    "dimension": "Power Distance",
+    "religion": "hindu",
+    "lang_pair": "en→pa",
+    "cosine_sim": 0.7161,
+    "drift": 0.2839
+  }
+]

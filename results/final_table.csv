@@ -1,0 +1,25 @@
+model,dimension,stance_EN,stance_HI,stance_PA,drift_EN_HI,drift_EN_PA
+llama31_8b,Collectivism,3.2,3.7,4.5,0.5,1.3
+llama31_8b,Power Distance,3.1,2.9,3.86,-0.2,0.76
+llama31_8b,Long-term Orientation,3.8,4.5,3.5,0.7,-0.3
+llama31_8b,Indulgence,3.5,4.2,4.6,0.7,1.1
+mistral_7b,Collectivism,3.1,2.67,,-0.43,
+mistral_7b,Power Distance,3.0,2.0,,-1.0,
+mistral_7b,Long-term Orientation,4.0,3.8,,-0.2,
+mistral_7b,Indulgence,3.0,4.0,,1.0,
+qwen25_7b,Collectivism,3.1,3.8,3.57,0.7,0.47
+qwen25_7b,Power Distance,3.1,2.8,4.67,-0.3,1.57
+qwen25_7b,Long-term Orientation,3.8,4.2,4.0,0.4,0.2
+qwen25_7b,Indulgence,3.0,4.2,5.0,1.2,2.0
+aya_expanse_8b,Collectivism,3.3,3.5,4.0,0.2,0.7
+aya_expanse_8b,Power Distance,2.8,3.1,4.33,0.3,1.53
+aya_expanse_8b,Long-term Orientation,3.4,5.0,5.0,1.6,1.6
+aya_expanse_8b,Indulgence,3.7,3.4,5.0,-0.3,1.3
+gemma2_9b,Collectivism,3.4,3.3,3.17,-0.1,-0.23
+gemma2_9b,Power Distance,2.8,2.9,2.5,0.1,-0.3
+gemma2_9b,Long-term Orientation,3.4,4.1,3.86,0.7,0.46
+gemma2_9b,Indulgence,3.2,3.3,3.33,0.1,0.13
+llama70b_groq,Collectivism,3.2,3.5,3.6,0.3,0.4
+llama70b_groq,Power Distance,3.4,2.9,3.2,-0.5,-0.2
+llama70b_groq,Long-term Orientation,3.8,4.0,4.1,0.2,0.3
+llama70b_groq,Indulgence,3.2,3.9,3.8,0.7,0.6
