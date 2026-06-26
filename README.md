@@ -140,7 +140,7 @@ Open `code/04_analysis.ipynb` in Jupyter and run all cells. Reproduces:
 | Indulgence | 5 | Personal leisure | Restrained / duty / seva |
 
 ---
-
+<!--
 ## Citation
 
 ```bibtex
@@ -153,7 +153,7 @@ Open `code/04_analysis.ipynb` in Jupyter and run all cells. Reproduces:
 ```
 
 ---
-
+-->
 ## License
 
 Code: CC BY 4.0. Data (scenario bank): CC BY 4.0. For research use.
