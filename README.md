@@ -1,5 +1,9 @@
 # Lost in Translation
 
+<p align="center">
+  <img src="banner.png" alt="Lost in Translation — Cross-Lingual Cultural Value Drift in LLMs" width="100%"/>
+</p>
+
 ## Cross-Lingual Cultural Value Drift in Large Language Models Across South Asian Languages
 
 <p align="center">
